@@ -4,7 +4,7 @@
 
 
 <img align="left" width="400" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/github-metrics.svg">
-<img align="right" width="400" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/personal.svg">
+<a href="https://music.apple.com/be/playlist/city-pop/pl.u-2DvIN2dEgo"><img align="right" width="400" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/personal.svg"></a>
 <!-- <img align="right" width="200" src="http://cdn.shopify.com/s/files/1/1061/1924/products/Whale_Spouting_Iphone_Emoji_JPG_grande.png?v=1571606114")> -->
 <br/>
 <table align="right" width="400">
