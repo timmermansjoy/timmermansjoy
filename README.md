@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there 🐳
+
+📚 I’m currently studying AI & Robitics at PXL
 
 
-![Metrics](https://github.com/timmermansjoy/timmermansjoy/blob/main/github-metrics.svg)
+<img align="left" width="500" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/github-metrics.svg">
+<img align="right" width="400" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/personal.svg">
+
+
+
+
 <!--
-**timmermansjoy/timmermansjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
