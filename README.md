@@ -3,8 +3,8 @@
 📚 I’m currently studying AI & Robitics at PXL
 
 
-<img align="left" width="500" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/github-metrics.svg">
-<img align="right" width="400" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/personal.svg">
+<img align="left" width="400" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/github-metrics.svg">
+<img align="left" width="400" src="https://github.com/timmermansjoy/timmermansjoy/blob/main/personal.svg">
 
 
 
