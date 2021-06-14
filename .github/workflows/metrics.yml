@@ -23,6 +23,6 @@ jobs:
           plugin_languages_details: percentage                          # Additionally display total bytes size and percentage
           plugin_la nguages_threshold: 2%                               # Hides all languages less than 2%
           plugin_languages_limit: 8                                     # Display up to 8 languages
-          plugin_languages_sections: most-used, recently-used           # Display most used and recently used languages stats
+          plugin_languages_sections: most-used                          # Display most used and recently used languages stats
           plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           plugin_languages_recent_load: 200                             # Load up to 500 events to compute recently used stats
