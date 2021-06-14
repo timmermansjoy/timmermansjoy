@@ -21,3 +21,6 @@ jobs:
           plugin_music_provider: apple
           plugin_music_limit: 4
           plugin_music_playlist: https://embed.music.apple.com/be/playlist/city-pop/pl.u-2DvIN2dEgo
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: no                         # Print detailed audit metrics
+          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
