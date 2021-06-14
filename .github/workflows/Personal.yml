@@ -10,19 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: 🦑 Personal metrics (right)
+      - name: Personal metrics (right)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.personal.anilist.svg
+          filename: personal.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
           plugin_music: yes
           plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
           plugin_music_limit: 4
-          config_order: anilist, music
+          config_order: music
