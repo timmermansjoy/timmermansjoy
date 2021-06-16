@@ -10,8 +10,8 @@
 <table align="right" width="400">
   <tr>
    <td align="center" width="400">
-      <a href="https://www.linkedin.com/in/joy-timmermans-471537a4/"><img alt="linkedin logo" width="50" src="https://www.inviacoaching.be/wp-content/uploads/2015/01/linkedin-logo-copy.png">
-    </td></a>
+      <a href="https://www.linkedin.com/in/joy-timmermans-471537a4/"><img alt="linkedin logo" width="50" src="https://www.inviacoaching.be/wp-content/uploads/2015/01/linkedin-logo-copy.png"></a>
+    </td>
   </tr>
 </table>
 
